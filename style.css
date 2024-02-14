@@ -69,7 +69,7 @@ header{
   background-color: var(--color-principal);
 }
 .main__conjunto{
-  background: url(/Imagenes/Component\ 2.png);
+  background: url(Imagenes/Component\ 2.png);
   height: 450px;
   display: flex;
   align-items: end;
